@@ -1,1 +1,1 @@
-# Bash projects Shell, basics #
+# Shell, basics Bash projects #
