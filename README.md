@@ -1,1 +1,4 @@
-# Shell, basics Bash projects #
+# 0x00. Shell, basics #
+*DevOps
+*Shell
+*Bash
